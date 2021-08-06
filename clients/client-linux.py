@@ -18,7 +18,7 @@ PROBEPORT = 80
 PROBE_PROTOCOL_PREFER = "ipv4"  # ipv4, ipv6
 PING_PACKET_HISTORY_LEN = 100
 CU = "cu.tz.cloudcpp.com"
-CT = "ct.tz.cloudcpp.com"
+CT = "sh.189.cn"
 CM = "cm.tz.cloudcpp.com"
 
 import socket
